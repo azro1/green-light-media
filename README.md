@@ -1,5 +1,5 @@
-# Green-Light-Media
-Fully responsive "Landing Page" for a fictional company with blur effect.
+# Green-Light-Media💥
+## Fully responsive "Landing Page" for a fictional company with blur effect.
 
 ## Tech Stack
 <details>
@@ -12,7 +12,8 @@ Fully responsive "Landing Page" for a fictional company with blur effect.
 
 ## Getting Started
 
-This is a simple HTML & CSS landing page. You are free to make any changes and add features to it. 
+This is a simple HTML & CSS landing page which i have made open source to help  you get started with making contribututions. 
+You are free to make changes and add features to you like 😆
 
 ## Contributing 🔨
 
