@@ -13,7 +13,7 @@
 ## Getting Started
 
 This is a simple HTML & CSS landing page which i have made open source to help  you get started with making contribututions. 
-You are free to make changes and add features to you like 😆
+You are free to make changes and add features to you like 😎
 
 ## Contributing 🔨
 
